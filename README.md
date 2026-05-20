@@ -38,6 +38,8 @@ RescueMesh AI converts emergency reports into a live command system. Users submi
 
 ## Demo Flow
 
+live demo : https://rescue-mesh-ai.vercel.app/
+
 1. Open the landing page.
 2. Launch the disaster simulator.
 3. View reports in the command dashboard.
